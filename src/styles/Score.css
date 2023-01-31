@@ -1,0 +1,8 @@
+.score {
+  text-align: end;
+  padding: 0 7%;
+}
+
+.score > p {
+  font-size: 25px;
+}
