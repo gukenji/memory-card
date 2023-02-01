@@ -33,6 +33,7 @@ function App() {
     const limit = images.length - 1;
     return Math.floor(Math.random() * (limit + 1));
   };
+
   useEffect(() => {
     document.title = "Score: " + currentScore;
   });
