@@ -1,6 +1,7 @@
 {
   "name": "memory-card",
   "version": "0.1.0",
+  "homepage": "https://gukenji.github.io/memory-card/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -16,7 +17,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://gukenji.github.io/memory-card/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
